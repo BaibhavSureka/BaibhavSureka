@@ -1,8 +1,8 @@
-<h1 align = "center"># 💫 About Me:</h1>
+# 💫 About Me:
 👋 Hi, I’m Baibhav<br>👀 I’m interested in Web Dev  , AI ML and Robotics.<br>🌱 I’m currently learning Machine Learning.<br>💞️ I’m looking to collaborate on some interesting projects.<br>📫 How to reach me: Email: baibhavsureka1@gmail.com
 
 
-<h1 align = "center">## 🌐 Socials:</h1>
+## 🌐 Socials:
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/baibhav._.sureka/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baibhav-sureka-702257223/) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/baibhav_sureka)
 
 # 💻 Tech Stack:
