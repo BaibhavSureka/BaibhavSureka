@@ -1,4 +1,4 @@
-# 💫 About Me:
+<h1 align = "center"># 💫 About Me:</h1>
 👋 Hi, I’m Baibhav<br>👀 I’m interested in Web Dev  , AI ML and Robotics.<br>🌱 I’m currently learning Machine Learning.<br>💞️ I’m looking to collaborate on some interesting projects.<br>📫 How to reach me: Email: baibhavsureka1@gmail.com
 
 
