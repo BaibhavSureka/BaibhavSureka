@@ -23,15 +23,15 @@
 
 <h1 align = "center">Let's Connect!!!</h1>
 <div class="scrollmenu" align = "center">
-	<a href = "https://www.linkedin.com/in/ojas-mittal-13b133225/">
+	<a href = "https://www.linkedin.com/in/baibhav-sureka-702257223/">
  <img width = "50px"src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631429597/Self/linkedin_jo0dot.png" />
  </a>
 &nbsp;
-<a href = "mailto:ojasfarm31@gmail.com">
+<a href = "mailto:baibhavsureka1@gmail.com">
  <img width = "50px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631429608/Self/gmail_fm9lpo.png" />
  </a>
 &nbsp;
-<a href = "https://github.com/OjasMittal">
+<a href = "https://github.com/BaibhavSureka">
  <img width = "50px" src = "https://res.cloudinary.com/ddglxo0l3/image/upload/v1631429602/Self/github_j88moo.png" />
 </a>	
 <br>
