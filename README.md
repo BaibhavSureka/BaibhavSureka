@@ -59,12 +59,17 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BaibhavSureka&theme=dark&hide_border=false" alt="GitHub Streak Stats"/>
-  </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaibhavSureka&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
-  </div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BaibhavSureka&show_icons=true&locale=en" alt="BaibhavSureka" /><br><br>
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BaibhavSureka&" alt="BaibhavSureka_top languages" />
+  <br><br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BaibhavSureka&show_icons=true&locale=en&layout=compact" alt="BaibhavSureka" />
+</div>
+
+---
+
+# 📊 LeetCode Stats:
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/baibhavsureka?theme=catppuccinMocha&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
 </div>
 
 ---
