@@ -60,10 +60,12 @@
 # 📊 GitHub Stats:
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=BaibhavSureka&show_icons=true&locale=en" alt="BaibhavSureka" /><br><br>
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BaibhavSureka&" alt="BaibhavSureka_top languages" />
-  <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BaibhavSureka&show_icons=true&locale=en&layout=compact" alt="BaibhavSureka" />
+
+  <img align="center" src="https://streak-stats.demolab.com/?user=baibhavsureka" alt="GitHub Streak" /><br><br>
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BaibhavSureka&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </div>
+
 
 ---
 
