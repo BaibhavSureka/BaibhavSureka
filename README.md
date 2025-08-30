@@ -1,3 +1,5 @@
+<img width="2000" height="400" alt="image" src="https://github.com/user-attachments/assets/d341130b-623e-4a15-a025-4e148ece722d" />
+
 <h1 align="center">Hi 👋, I'm Baibhav Sureka</h1>
 <h3 align="center">👨‍💻 Software Developer | Frontend Enthusiast | Always Learning, Always Building</h3>
 
@@ -21,7 +23,6 @@
 <a href="https://instagram.com/baibhav._.sureka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="baibhav._.sureka" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/baibhav_sureka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="baibhav_sureka" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/baibhavsureka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="baibhavsureka" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/baibhavsn26l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="baibhavsn26l" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
