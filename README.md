@@ -1,98 +1,38 @@
-# 💫 About Me:
-👋 Hi, I’m Baibhav<br>
-👀 I’m interested in Web Dev, AI ML, and Robotics.<br>
-🌱 I’m currently learning Machine Learning.<br>
-💞️ I’m looking to collaborate on some interesting projects.<br>
-📫 How to reach me: Email: [baibhavsureka1@gmail.com](mailto:baibhavsureka1@gmail.com)
+<h1 align="center">Hi 👋, I'm Baibhav Sureka</h1>
+<h3 align="center">👨‍💻 Software Developer | Frontend Enthusiast | Always Learning, Always Building</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/baibhav._.sureka) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/baibhavsureka) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/baibhav_sureka)
+- 🌱 I’m currently learning **AI & ML · System Design · Cloud (AWS basics)**
 
----
+- 👯 I’m looking to collaborate on **AI/ML and Full-stack projects**
 
-# 💻 Tech Stack:
-### Programming Languages:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- 🤝 I’m looking for help with **Building scalable AI-driven applications and full-stack systems**
 
+- 👨‍💻 All of my projects are available at [Portfolio](https://baibhavs.vercel.app)
 
-### Web Development:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+- 💬 Ask me about **React · AI & ML · Competitive Programming**
 
-### Backend & Hosting:
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+- 📫 How to reach me **baibhavsureka1@gmail.com**
 
-### Data Science & ML:
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+- ⚡ Fun fact **I debug better at *2 AM* than in the daytime 😅**
 
-### Database:
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/baibhavsureka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baibhavsureka" height="30" width="40" /></a>
+<a href="https://instagram.com/baibhav._.sureka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="baibhav._.sureka" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/baibhav_sureka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="baibhav_sureka" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/baibhavsureka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="baibhavsureka" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/baibhavsn26l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="baibhavsn26l" height="30" width="40" /></a>
+</p>
 
-### Tools & Platforms:
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=baibhavsureka&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=baibhavsureka&show_icons=true&locale=en&theme=tokyonight" height="165"/>
+</p>
 
-# 📊 GitHub Stats:
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BaibhavSureka&show_icons=true&locale=en" alt="BaibhavSureka" /><br><br>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baibhavsureka&theme=tokyonight" height="165"/>
+</p>
 
-  <img align="center" src="https://streak-stats.demolab.com/?user=baibhavsureka" alt="GitHub Streak" /><br><br>
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BaibhavSureka&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</div>
-
-
----
-
-# 📊 LeetCode Stats:
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/baibhavsureka?theme=catppuccinMocha&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
-</div>
-
----
-
-<h1 align="center">Let's Connect!!!</h1>
-<div align="center">
-  <a href="https://www.linkedin.com/in/baibhavsureka/">
-    <img width="50px" src="https://res.cloudinary.com/ddglxo0l3/image/upload/v1631429597/Self/linkedin_jo0dot.png" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:baibhavsureka1@gmail.com">
-    <img width="50px" src="https://res.cloudinary.com/ddglxo0l3/image/upload/v1631429608/Self/gmail_fm9lpo.png" alt="Gmail"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/BaibhavSureka">
-    <img width="50px" src="https://res.cloudinary.com/ddglxo0l3/image/upload/v1631429602/Self/github_j88moo.png" alt="GitHub"/>
-  </a>
-</div>
-
----
-
-<h1 align="center">Thank You 😊 !!!</h1>
-
---- 
